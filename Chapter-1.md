@@ -1,7 +1,7 @@
 Anaconda是python的一个环境管理工具，刚准备开始接触，先从安装配置开始学。
 
 ### 1-1 <span id='1-1'>下载安装</span>
-[test](#abc)
+
 先下载最新版本的Anaconda5.3.1：[https://www.anaconda.com/download](https://www.anaconda.com/download)  
 这个版本包含了python3.7版本，而我电脑上已经有了python3.6版本，不知道到时怎么切换，先安装了再慢慢琢磨。  
 安装过程不说了，在安装时让我选择是否将其添加进环境变量path里，提示是不建议添加因为会干扰其他软件，可以在安装完成后通过Anaconda Navigator或Anaconda Prompt运行。  
